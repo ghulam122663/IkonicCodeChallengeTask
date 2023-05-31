@@ -16,9 +16,9 @@
 @endforeach
 
 {{-- @if (count() > 0) --}}
-<div class="d-flex justify-content-center mt-2 py-3" id="load_more_btn_parent">
+{{-- <div class="d-flex justify-content-center mt-2 py-3" id="load_more_btn_parent">
   <button class="btn btn-primary" onclick="getMoreRequests()" data-type="" data-limit="" id="load_more_btn">Load more</button>
-</div>
+</div> --}}
     
 {{-- @endif --}}
 
